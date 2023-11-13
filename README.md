@@ -6,6 +6,16 @@ I design electronics and build automation systems as well.
 
 You can check out my blog at https://opsbros.com/
 
+### 🔨 Languages, Technologies and Tools
+
+[![Generic badge](https://img.shields.io/badge/C%23-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/.NET&nbsp;Core&nbsp;-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/ASP.Net&nbsp;MVC-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/SQL-green.svg)](https://shields.io/)
+
+[![Generic badge](https://img.shields.io/badge/VS-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/VS&nbsp;code-blue.svg)](https://shields.io/)
+
 <!--
 **optoisolated/optoisolated** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
