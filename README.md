@@ -1,7 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+Github+Repo.)](https://git.io/typing-svg)
 
 I'm a solutions architect and spend time coding as a hobby.
+
 I design electronics and build automation systems as well.
+
 You can check out my blog at https://opsbros.com/
 
 <!--
