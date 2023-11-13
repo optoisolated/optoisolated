@@ -12,9 +12,11 @@ You can check out my blog at https://opsbros.com/
 [![Generic badge](https://img.shields.io/badge/.NET&nbsp;Core&nbsp;-green.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/ASP.Net&nbsp;MVC-green.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/SQL-green.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Dpcker-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Docker-green.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Kicad-green.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/RaspberryPi-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Azure-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/AWS-green.svg)](https://shields.io/)
 
 [![Generic badge](https://img.shields.io/badge/VS-blue.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/VS&nbsp;code-blue.svg)](https://shields.io/)
